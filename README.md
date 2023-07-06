@@ -1,2 +1,2 @@
-# Calculator-Coding-Ninjas.github.io
+# Calculator Coding Ninjas
  
